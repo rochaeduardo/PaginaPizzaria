@@ -1,0 +1,11 @@
+#top{
+		background-image: url("../images/top.png");
+		 background-size: 100% auto;
+		 margin:  0 auto;
+		 position: absolute;
+		 top:0;
+		 left: 0;
+		 background-attachment: fixed;
+		 background-repeat: no-repeat;
+	height: 900px;
+	width: 100%;
